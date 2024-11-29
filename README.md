@@ -20,6 +20,7 @@ To run this project, you need:
 2. **Run the Setup Script**:
    This script will install all necessary dependencies automatically.
    ```bash
+   chmod +x setup_env.sh
    sudo ./setup_env.sh
    ```
 ---
@@ -32,6 +33,7 @@ To run this project, you need:
 
 2. Run the script:
    ```bash
+   chmod +x source/cone.py
    python source/cone.py
    ```
 
