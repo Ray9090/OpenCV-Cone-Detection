@@ -58,6 +58,6 @@ OpenCV-Cone-Detection/
 ```
 scp <local_file_path/OpenCV-Cone-Detection> pi4@141.44.76.85:~
 ```
-Removed <local_file_path/OpenCV-Cone-Detection> with the actual file path from the host device.
+Remove <local_file_path/OpenCV-Cone-Detection> with the actual file path from the host device.
 
 Enjoy using the **Cone Detection Project**! 🎉
