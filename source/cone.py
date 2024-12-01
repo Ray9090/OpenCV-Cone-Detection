@@ -7,8 +7,8 @@ import os
 
 def main(argv):
     # Default input image
-    default_file = 'image/image2.jpg'
-    filename = argv[0] if len(argv) > 0 else default_file
+    default_file = 'image/image2.png'
+    filename = argv[0] if len(argv) > 0 else default_file ## buji nai
 
     # Load the input image
     input_image = cv.imread(filename, cv.IMREAD_COLOR)
